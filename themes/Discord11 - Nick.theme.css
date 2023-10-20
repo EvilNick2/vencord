@@ -7899,8 +7899,9 @@
 }
 
 /* View as Role */
-#app-mount .notice-2olXi7 {
-}
+/* #app-mount .notice-2olXi7 {
+	
+} */
 
 /* Fix in Permissions roles */
 .role-3pGE29 {
@@ -8877,9 +8878,16 @@ div#app-mount.appMount-2yBXZl::before {
 }
 
 .contents-2MsGLg,
-.chatContent-3KubbW {
+.chatContent-3KubbW,
+.content-18rAwf,
+.container-1CH86i,
+.layerContainer-2lfOPe,
+.form-3qe0Ni::before,
+.chat-9g_3Xj {
     background: transparent !important;
-    background-image: var(--wallpaper-is);
-    background-position: center;
-    background-size: cover;
+}
+
+.chatContent-2O4SXb {
+	background: transparent !important;
+	background-color: hsla(0, 0%, 6%, 0.52) !important;
 }
