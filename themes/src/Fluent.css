@@ -1160,10 +1160,10 @@ html.theme-dark.app-focused .winButton_c38106 {
   padding-left: 32px;
 }
 .theme-dark .containerDefault_c69b6d .list_c3cd7d .avatarSpeaking__07f91 {
-  box-shadow: 0 0 0 2px #f11d1d, inset 0 0 0 3px rgba(0, 0, 0, 0.7);
+  box-shadow: 0 0 0 2px hsl(var(--fluent-accent-hue-sat), var(--fluent-accent-lightness)), inset 0 0 0 3px rgba(0, 0, 0, 0.7);
 }
 .theme-dark .containerDefault_c69b6d .list_c3cd7d .usernameSpeaking__07f91 {
-  color: #f11d1d;
+  color: hsl(var(--fluent-accent-hue-sat), var(--fluent-accent-lightness));
 }
 .theme-dark .containerDefault_c69b6d .unread__2ea32 {
   display: none;
