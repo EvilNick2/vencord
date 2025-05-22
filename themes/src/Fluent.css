@@ -3247,9 +3247,6 @@ html[lang^=en-].theme-dark .wrapper__1405b .button__201d5[aria-label]::before {
 html[lang^=en-].theme-dark .wrapper__1405b .button__201d5[aria-label] svg {
   display: none;
 }
-html[lang^=en-].theme-dark .wrapper__1405b .button__201d5[aria-label="Mute"] svg {
-	display: block;
-}
 .theme-dark .nowPlayingColumn__133bf {
   background: transparent;
 }
@@ -6726,6 +6723,12 @@ html[lang^=en-].theme-dark .panels_c48ade .button__201d5[aria-label=Mute][aria-c
   content: "\ec54";
 }
 html[lang^=en-].theme-dark .panels_c48ade .button__201d5[aria-label=Mute][aria-checked=false]::before {
+  content: "\e720";
+}
+html[lang^=en-].theme-dark .wrapper__1405b .button__201d5[aria-label=Unmute]::before {
+  content: "\ec54";
+}
+html[lang^=en-].theme-dark .wrapper__1405b .button__201d5[aria-label=Mute]::before {
   content: "\e720";
 }
 html[lang^=en-].theme-dark .panels_c48ade .button__201d5[aria-label^="User settings" i]::before {
