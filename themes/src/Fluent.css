@@ -923,9 +923,6 @@ html.theme-dark.app-focused .winButton_c38106 {
 .theme-dark .panels_c48ade .avatarWrapper__37e49:hover {
   background-color: transparent;
 }
-.theme-dark .panels_c48ade .buttons__37e49 {
-  margin-left: 8px;
-}
 .theme-dark .panels_c48ade .buttonSpace__37e49 {
   margin-right: 0;
 }
@@ -946,9 +943,6 @@ html.theme-dark.app-focused .winButton_c38106 {
   position: absolute;
   top: 5px;
   left: 5px;
-}
-.theme-dark .panels_c48ade .button__67645:first-child {
-  margin-left: 0;
 }
 .theme-dark .panels_c48ade .button__67645[aria-checked=true] {
   border-color: #FF99A4;
