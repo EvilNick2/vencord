@@ -3247,7 +3247,9 @@ html[lang^=en-].theme-dark .wrapper__1405b .button__201d5[aria-label]::before {
 html[lang^=en-].theme-dark .wrapper__1405b .button__201d5[aria-label] svg {
   display: none;
 }
-
+html[lang^=en-].theme-dark .wrapper__1405b .button__201d5[aria-label="Mute"] svg {
+	display: block;
+}
 .theme-dark .nowPlayingColumn__133bf {
   background: transparent;
 }
