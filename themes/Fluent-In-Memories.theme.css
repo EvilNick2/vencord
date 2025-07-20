@@ -27,7 +27,7 @@
   --fluent-acrylic-background-blur: 2px;
   --fluent-acrylic-background-dimness: 50%;
   --fluent-acrylic-background-saturate: 140%;
-  /* Set to 'none' to hide, 'block' or 'flex' to show */
+  /* Set to 'none' to hide, 'flex' to show */
   --fluent-show-nitro-decorations: none;
   --fluent-show-activity-status: block;
 }
