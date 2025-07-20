@@ -1680,6 +1680,10 @@ html[lang^=en-].theme-dark .wrapper_f7ecac .button_f7ecac[aria-label] svg {
 .theme-dark .avatarDecoration_c19a55 {
   display: var(--fluent-show-nitro-decorations);
 }
+[class*='membersGroup']:has([role=button]),
+[class*='member'] [class*='container']:has([class*='badges']) {
+  display: var(--hide-member-badges);
+}
 .theme-dark .container__00de6 {
   align-items: flex-start;
   padding: 0;
