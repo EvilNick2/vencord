@@ -29,7 +29,7 @@
   --fluent-acrylic-background-saturate: 140%;
   /* Set to 'none' to hide, 'flex' to show */
   --fluent-show-nitro-decorations: none;
-  --fluent-show-activity-status: block;
+  --fluent-show-activity-status: flex;
 }
 /**
  * End user options
